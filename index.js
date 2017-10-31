@@ -7,7 +7,7 @@ const dateconv = require('date-and-time')
 dateconv.locale('fr');
 let now = new Date()
 const date = dateconv.format(now, 'DD MMMM YYYY')
-const datestr = ateconv.format(now, 'YYYYMMDD')
+const datestr = dateconv.format(now, 'YYYYMMDD')
 
 marked.setOptions({
   renderer: new marked.Renderer(),
@@ -36,17 +36,17 @@ var context = {
   content: rendererContent
 };
 let output = Mustache.render(template, context);
-
+output = output.replace(/(?:\r\n|\r|\n)/g, '')
 var data = {
   from: 'UNA Communication <support@una-club.fr>',
   to: 'system@mail.una-club.fr',
   subject: '[UNA] Newsletter du ' + date,
-  html: output.replace(/(?:\r\n|\r|\n)/g, '')
+  html: output
 };
 
 mailgun.messages().send(data, function (error, body) {
   console.log(body);
 });
 
-fs.writeFile('newsletter-'+datestr+'.txt', data)
-fs.writeFile('history/newsletter-'+datestr+'.txt', data)
+fs.writeFile('newsletter-'+datestr+'.html', output)
+fs.writeFile('history/newsletter-'+datestr+'.html', output)
