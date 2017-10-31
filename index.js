@@ -7,6 +7,7 @@ const dateconv = require('date-and-time')
 dateconv.locale('fr');
 let now = new Date()
 const date = dateconv.format(now, 'DD MMMM YYYY')
+const datestr = ateconv.format(now, 'YYYYMMDD')
 
 marked.setOptions({
   renderer: new marked.Renderer(),
@@ -46,3 +47,6 @@ var data = {
 mailgun.messages().send(data, function (error, body) {
   console.log(body);
 });
+
+fs.writeFile('newsletter-'+datestr+'.txt', data)
+fs.writeFile('history/newsletter-'+datestr+'.txt', data)
