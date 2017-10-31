@@ -49,4 +49,7 @@ mailgun.messages().send(data, function (error, body) {
 });
 
 fs.writeFileSync('newsletter-'+datestr+'.html', output)
+try{
+  fs.mkdirSync('history')
+}catch(e){}
 fs.writeFileSync('history/newsletter-'+datestr+'.html', output)
