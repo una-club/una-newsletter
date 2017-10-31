@@ -1,0 +1,18 @@
+{
+  "name": "una-newsletter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64-img": "^1.0.3",
+    "embed-images": "^1.0.1",
+    "mailgun-js": "^0.13.1",
+    "marked": "^0.3.6",
+    "mustache": "^2.3.0"
+  }
+}
