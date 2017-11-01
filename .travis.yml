@@ -14,5 +14,16 @@ after_success:
   - git config user.email mickael.a.tardy@gmail.com
   - git config user.name mickaeltardy
   - git add history/*
-  - git commit -m "Publish newsletter from built"
+  - git commit -m "Publish newsletter from travis"
   - git push --repo=https://${GITHUB_TOKEN}@github.com/una-club/una-newsletter.git
+  - cd ..
+  - git clone https://github.com/una-club/una-club.github.io.git website
+  - cd website
+  - git config user.email mickael.a.tardy@gmail.com
+  - git config user.name mickaeltardy
+  - cd una-newsletter
+  - git pull
+  - cd ..
+  - git add una-newsletter
+  - git commit -m "Update newsletter"
+  - git push --repo=https://${GITHUB_TOKEN}@github.com/una-club/una-club.github.io.git
