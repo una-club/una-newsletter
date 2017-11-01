@@ -6,7 +6,7 @@ Ceci est la toute première édition de la newsletter UNA 2017. Vous la recevez 
 
 * **Save the date : l'assemblée générale le 24 novembre, à 17h**
 * Les séances sur l'eau le soir, c'est fini jusqu'à mars. On passe à l'ergo les mercredis et les jeudi et il y a toujours le crossfit les mardis et les vendredis
-* Nouvelles combi : UNA se refait le visage avec le nouveau design de combinaisons. Si vous avez des idées n'hésitez pas à contacter Sophie sur sophie.drenou@hotmail.fr
+* Nouvelles combi : UNA se refait le visage avec le nouveau design de combinaisons. Si vous avez des idées n'hésitez pas à contacter le bureau étudiant. Leur coordonnées sont à l'éntrée du club.
 
 ## Calendrier
 
