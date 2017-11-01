@@ -15,4 +15,4 @@ after_success:
   - git config user.name mickaeltardy
   - git add history/*
   - git commit -m "Publish newsletter from built"
-  - git push "https://${GITHUB_TOKEN}@github.com/una-club/una-newsletter.git  > /dev/null 2>&1
+  - git push --repo=https://${GITHUB_TOKEN}@github.com/una-club/una-newsletter.git
