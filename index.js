@@ -48,7 +48,7 @@ mailgun.messages().send(data, function (error, body) {
   console.log(body);
 });
 
-fs.writeFileSync('newsletter-'+datestr+'.html', output)
+
 try{
   fs.mkdirSync('history')
 }catch(e){}
