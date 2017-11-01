@@ -21,8 +21,9 @@ after_success:
   - cd website
   - git config user.email mickael.a.tardy@gmail.com
   - git config user.name mickaeltardy
+  - git submodule update --init --recursive
   - cd una-newsletter
-  - git pull
+  - git checkout develop
   - cd ..
   - git add una-newsletter
   - git commit -m "Update newsletter"
