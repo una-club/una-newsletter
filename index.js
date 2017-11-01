@@ -6,7 +6,7 @@ const dateconv = require('date-and-time')
 
 dateconv.locale('fr');
 let now = new Date()
-const date = dateconv.format(now, 'DD MMMM YYYY')
+const date = dateconv.format(now, 'D MMMM YYYY')
 const datestr = dateconv.format(now, 'YYYYMMDDhhmmss')
 
 marked.setOptions({
