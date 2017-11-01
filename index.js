@@ -7,7 +7,7 @@ const dateconv = require('date-and-time')
 dateconv.locale('fr');
 let now = new Date()
 const date = dateconv.format(now, 'DD MMMM YYYY')
-const datestr = dateconv.format(now, 'YYYYMMDD')
+const datestr = dateconv.format(now, 'YYYYMMDDhhmmss')
 
 marked.setOptions({
   renderer: new marked.Renderer(),
@@ -33,6 +33,7 @@ let rendererContent = marked(content.toString())
 
 var context = {
   date: date,
+  permalink: 'https://una-club.github.io/una-newsletter/history/newsletter-'+datestr+'.html',
   content: rendererContent
 };
 let output = Mustache.render(template, context);
