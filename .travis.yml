@@ -8,7 +8,8 @@ branches:
 
 after_success:
   - git clone https://github.com/una-club/una-newsletter.git repo
-  - mv -f history/* repo/history
+  - mv repo/history/
+  - mv history/* repo/history/
   - cd repo
   - git config user.email mickael.a.tardy@gmail.com
   - git config user.name mickaeltardy
