@@ -7,11 +7,11 @@ branches:
   - master
 
 after_success:
-  - git clone git://${GH_REPO} repo
+  - git clone https://github.com/una-club/una-newsletter.git repo
   - mv -f history/* repo/history
   - cd repo
-  - git config user.email ${EMAIL}
-  - git config user.name ${USER}
+  - git config user.email mickael.a.tardy@gmail.com
+  - git config user.name mickaeltardy
   - git add history/*
   - git commit -m "Publish newsletter from built"
-  - git push "https://${GITHUB_TOKEN}@${GITHUB_REPO}"  > /dev/null 2>&1
+  - git push "https://${GITHUB_TOKEN}@github.com/una-club/una-newsletter.git  > /dev/null 2>&1
