@@ -20,7 +20,8 @@ marked.setOptions({
   smartypants: false
 });
 
-api_key_env   = process.env.MAILGUN_TOKEN;
+var mailing_list   = process.env.MAILING_LIST;
+var api_key_env   = process.env.MAILGUN_TOKEN;
 var api_key = api_key_env
 var domain = 'mail.una-club.fr';
 var mailgun = require('mailgun-js')({apiKey: api_key, domain: domain});
@@ -39,8 +40,8 @@ var context = {
 let output = Mustache.render(template, context);
 output = output.replace(/(?:\r\n|\r|\n)/g, '')
 var data = {
-  from: 'UNA Communication <support@una-club.fr>',
-  to: 'system@mail.una-club.fr',
+  from: 'UNA Communication <contact@una-club.fr>',
+  to: mailing_list,
   subject: '[UNA] Newsletter du ' + date,
   html: output
 };
