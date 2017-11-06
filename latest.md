@@ -1,10 +1,16 @@
+## ERRATUM
+
+Toutes nos excuses pour une erreur qui s'est glissée dans le message précédent. L'assemblée générale aura bien lieu **samedi, 25 novembre, à 17h**.
+
+Toutes les autres informations sont correctes.
+
 ## Important
 
 Ceci est la toute première édition de la newsletter UNA 2017. Vous la recevez parce que vous avez indiqué cette adresse mail lors de l'inscription. Vous pouvez toujours vous désinscrire en suivant le lien en bas de page.
 
 ## Dernières actus
 
-* **Save the date : l'assemblée générale le 24 novembre, à 17h**
+* **Save the date : l'assemblée générale le 25 novembre, à 17h**
 * Les séances sur l'eau le soir, c'est fini jusqu'à mars. On passe à l'ergo les mercredis et les jeudi et il y a toujours le crossfit les mardis et les vendredis (sauf le 10 novembre).
 * Nouvelles combi : UNA se refait le visage avec le nouveau design de combinaisons. Si vous avez des idées n'hésitez pas à contacter le bureau étudiant. Leur coordonnées sont à l'éntrée du club.
 
