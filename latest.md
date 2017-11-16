@@ -5,7 +5,8 @@
 
 ## Dernières actus
 
-* Une délégation de l'UNA de 36 personnes (33 athlètes et 3 accompagnateurs) s'est déplacée à Angers pour participer à la tête de rivière régionale. Des performances prometteuses dans les conditions difficiles et surtout une belle occasion de souder l'équipe au début de la saison.
+* Ce samedi, 18 novembre UNA a acqueilli la première étape du Champtionnat Jeunes. Plusieurs clubs du département se sont réunis pour l'occasion avec les jeunes rameurs de 11 à .. ans. Très bel événement qui a permis à l'UNA de présenter 4 équipages 
+* Une délégation de l'UNA de 35 personnes (32 athlètes et 3 accompagnateurs) s'est déplacée à Angers le 11 novembre pour participer à la tête de rivière régionale. Des performances prometteuses dans les conditions difficiles et surtout une belle occasion de souder l'équipe au début de la saison. [Voir les résultats](http://www.avironpdl.fr/resultats/17-18/Classement-TdR_Angers11nov17.pdf)
 
 ## Calendrier
 
