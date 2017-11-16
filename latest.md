@@ -1,19 +1,18 @@
 ## Important
 
-* L'équipe des étudiants a travaillé sur les maquettes de combis qui sont soumises au vote [disponible en ligne](...)! Le vote est ouvert jusqu'à
 * **L'assemblée générale le 25 novembre, à 17h**
 * **Journée du huit le 26 novembre, 8h-..**
 
 ## Dernières actus
 
-* Une délégation de l'UNA de 36 personnes (33 athlètes et 3 accompagnateurs) s'est déplacée à Angers pour participer à la tête de rivière régionale. Des performances prometteuses dans les conditions difficiles et surtout une belle occasion de souder l'équipe au début de la saison. [Lire l'article](...)
+* Une délégation de l'UNA de 36 personnes (33 athlètes et 3 accompagnateurs) s'est déplacée à Angers pour participer à la tête de rivière régionale. Des performances prometteuses dans les conditions difficiles et surtout une belle occasion de souder l'équipe au début de la saison.
 
 ## Calendrier
 
 * **25 novembre, 17h00** : *Assemblée générale*. C'est d'abord une possibilité d'apprendre plus sur l'association mais aussi une opportunité de rentrer dans le conseil d'administration dont la composition sera votée le même jour.
 * **26 novembre** : *Journée du 8*. Tous en 8 (8+ ou 8x) pour une course de 2500m. Il y a encore du temps pour composer les équipages.
 * **10 décembre** : *Champtionnat Régional Indoor à Saumur*. Une délégation de l'UNA ira à Saumur, mais des sessions de test ergo seront également organisées à Nantes durant le week-end de 8-10 décembre. Parlez-en aux coaches pour en savoir plus.
-* **16 décembre** : *Soirée raclette*. Les licenciés de l'UNA sont conviés à participer au repas de fin d'année organisé par le BDE le samedi 16 décembre au soir. Plus d'informations arriveront courant Novembre.
+* **16 décembre** : *Journée de Noël*. Une journée sprotive et festive ouverte à tous les licenciés remplie de activités sprotives et culminant d'un diner organisé par le BDE. Plus d'informations à venir.
 
 ## Rappels généraux
 
