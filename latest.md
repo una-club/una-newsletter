@@ -9,7 +9,7 @@ Ceci est la deuxième édition de la newsletter UNA. Vous la recevez parce que v
 
 ## Dernières actualités
 
-* Ce samedi, 18 novembre UNA a accueilli la première étape du Championnat Jeunes. Plusieurs clubs du département se sont réunis avec les jeunes rameurs de 11 à 14 ans. Très bel événement qui a permis à l'UNA de présenter 5 équipages. Le vainqueur est également l'équipage de l'UNA qui a non seulement remporté le classement général, mais s'est placé premier dans les deux épreuves, course en yolette et course à pieds.
+* Ce samedi, 18 novembre UNA a accueilli la première étape du Championnat Jeune FFA. Plusieurs clubs du département se sont réunis avec les jeunes rameurs de 11 à 14 ans. Très bel événement qui a permis à l'UNA de présenter 5 équipages. Le vainqueur est également l'équipage de l'UNA qui a non seulement remporté le classement général, mais s'est placé premier dans les deux épreuves, course en yolette et course à pieds.
 * Une délégation de l'UNA de 34 personnes (31 athlètes et 3 accompagnateurs) s'est déplacée à Angers le 11 novembre pour participer à la tête de rivière régionale. Des performances prometteuses dans les conditions difficiles et surtout une belle occasion de souder l'équipe au début de la saison. [Voir les résultats](http://www.avironpdl.fr/resultats/17-18/Classement-TdR_Angers11nov17.pdf)
 
 ## Calendrier
