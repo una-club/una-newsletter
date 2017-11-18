@@ -17,7 +17,7 @@ Ceci est la deuxième édition de la newsletter UNA. Vous la recevez parce que v
 * **25 novembre, 17h00** : *Assemblée générale*. C'est d'abord une possibilité d'apprendre plus sur l'association mais aussi une opportunité de rentrer dans le conseil d'administration dont la composition sera votée le même jour.
 * **26 novembre** : *Journée du 8*. Tous en 8 (8+ ou 8x) pour une course de 2500m. Il y a encore du temps pour composer les équipages.
 * **10 décembre** : *Championnat Régional Indoor à Saumur*. Une délégation de l'UNA ira à Saumur, mais une session de test ergo sera également organisée à Nantes durant le week-end de 8-10 décembre. Parlez-en aux coaches pour en savoir plus.
-* **16 décembre** : *Journée de Noël*. Une journée sportive et festive ouverte à tous les licenciés remplie des activités sportives et culminant d'un diner organisé par le BDE. Plus d'informations à venir.
+* **16 décembre** : *Journée de Noël*. Une journée sportive et festive ouverte à tous les licenciés remplie d'activités sportives et culminant d'un diner organisé par le BDE. Plus d'informations à venir.
 
 ## Rappels généraux
 
