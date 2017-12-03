@@ -7,7 +7,7 @@ Ceci est la troisième édition de la newsletter UNA. On apprécie votre fidéli
 * **La campagne de dons de fin d'année est en cours et [accessible en ligne](https://www.donnerenligne.fr/universite-de-nantes-aviron/faire-un-don). Pour rappel les fonds collectés seront consacrés à l'achat du materiel tous publics suite à une décision collégiale des donateurs**
 * **Le 10 décembre prochain sera très chargé pour l'UNA ! Deux déplacements seront réalisés :**  
   - Une délégation des athlètes se déplacera à Saumur pour participer à championnat régional Indoor  
-  - Une autre délégation composée principalement des étudiants ira à Rennes pour le Chammenge Rennais Universitaire
+  - Une autre délégation composée principalement des étudiants ira à Rennes pour le Challenge Rennais Universitaire
 * **Plein d'activités sont prévues à l'UNA pour la Journée de Noël le 16 décembre.**  
   - Le matin : le biathlon aviron/course à pieds  
   - L'après-midi : Sorties en 8+ pour tous et Avifit pour les parents de l'école d'aviron ([inscrivez-vous en ligne](https://doodle.com/poll/xebx9nntut63y7hz))  
@@ -15,7 +15,7 @@ Ceci est la troisième édition de la newsletter UNA. On apprécie votre fidéli
 
 ## Dernières actualités
 
-* Samedi 25 novembre l'assemblée générale a été tenue à l'UNA. En plus de la présentation du bilan de l'année et du projet pour la saison en cours, le nouveau conseil d'administration a été élu. La quasi-totalité des membres du conseil ont prolongé leur mandat et 4 nouveaux membres l'ont rejoint : Clément, Jean-François, Laurent et Mickael.
+* Samedi 25 novembre l'assemblée générale a été tenue à l'UNA. En plus de la présentation du bilan de l'année et du projet pour la saison en cours, le nouveau conseil d'administration a été élu. La quasi-totalité des membres du conseil ont prolongé leur mandat.  Trois nouveaux membres  et 3 nouveaux membres l'ont rejoint : Clément Tiger, Mickael Tardy, et (en tant que présidente du BDE) Sophie Drenou.
 * Dimanche 26 novembre 13 équipages de l'UNA ont été composés à l'occasion de la journée nationale du huit. UNA est donc bien representé avec les minimes, les juniors et les seniors ont répondu présent pour participer à une course de 2500m. Le premier équipage de l'UNA se classe 5ème dans le classement générale avec les autres équipages bien classés dans leurs catégories.
 
 ## Calendrier
