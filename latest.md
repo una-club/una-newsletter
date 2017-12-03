@@ -9,28 +9,14 @@ Ceci est la troisième édition de la newsletter UNA. On apprécie votre fidéli
   - Une délégation des athlètes se déplacera à Saumur pour participer à championnat régional Indoor  
   - Une autre délégation composée principalement des étudiants ira à Rennes pour le Challenge Rennais Universitaire
 * **Plein d'activités sont prévues à l'UNA pour la Journée de Noël le 16 décembre.**  
-  - Le matin : le biathlon aviron/course à pieds  
+  - Le matin : le biathlon aviron en 4/course à pieds. _Attention : Pour cette occasion l'encadrement de samedi matin ne sera pas assuré et la plupart des 4 seront reservés pour l'événement_
   - L'après-midi : Sorties en 8+ pour tous et Avifit pour les parents de l'école d'aviron ([inscrivez-vous en ligne](https://doodle.com/poll/xebx9nntut63y7hz))  
   - Le soir : Apéro et la raclette collective
 
 ## Dernières actualités
 
-* Samedi 25 novembre l'assemblée générale a été tenue à l'UNA. En plus de la présentation du bilan de l'année et du projet pour la saison en cours, le nouveau conseil d'administration a été élu :
-Jeff Abrahamson (bureau, trésorier),
-Dimitri Boltz,
-Rabah Bouzidi,
-Laurent Cournede,
-Sophie Drenou (bureau, vice-présidente, présidente du BDE),
-Lucas Furet,
-Lionel Girard,
-André Migliati Levy,
-Jean-François Picaut (bureau, secrétaire adjoint),
-Thierry Prott (bureau),
-Benja Rousseau,
-Clément Tiger (nouveau, bureau, secrétaire),
-Mickael Tardy (nouveau, bureau),
-David Varaine (bureau, vice-président),
-Yann Lecieux (président).
+* Samedi 25 novembre l'assemblée générale a été tenue à l'UNA. En plus de la présentation du bilan de l'année et du projet pour la saison en cours, le nouveau conseil d'administration a été élu. Le bureau a été élu par la suite lors de la réunion du conseil le 29 novembre. Ainsi, le conseil d'administration est composé de
+Yann Lecieux (président), David Varaine (bureau, vice-président), Jeff Abrahamson (bureau, trésorier), Clément Tiger (nouveau, bureau, secrétaire), Jean-François Picaut (bureau, secrétaire adjoint), Sophie Drenou (bureau, vice-présidente, présidente du BDE), Thierry Prott (bureau), Mickael Tardy (nouveau, bureau), Dimitri Boltz, Rabah Bouzidi, Laurent Cournede, Lucas Furet, Lionel Girard, André Migliati Levy, Benja Rousseau. Les compositions sont égaleiement affichées sur [le site du club](http://univ-nantes-aviron.fr/page/equipe-dirigeante)
 * Dimanche 26 novembre 13 équipages de l'UNA ont été composés à l'occasion de la journée nationale du huit. UNA est donc bien representé avec les minimes, les juniors et les seniors ont répondu présent pour participer à une course de 2500m. Le premier équipage de l'UNA se classe 5ème dans le classement générale avec les autres équipages bien classés dans leurs catégories.
 
 ## Calendrier
