@@ -21,7 +21,7 @@ Yann Lecieux (président), David Varaine (bureau, vice-président), Jeff Abraham
 
 ## Calendrier
 
-* **10 décembre** : *Championnat Régional Indoor à Saumur*. Une délégation de l'UNA ira à Saumur, mais une session de test ergo sera également organisée à Nantes durant le week-end de 8-10 décembre. Parlez-en aux coaches pour en savoir plus.
+* **10 décembre** : *Championnat Régional Indoor à Saumur*. Une délégation de l'UNA composée de séniors, de juniors et de minimes ira à Saumur, mais une session de test ergo sera également organisée au club le 9 décembre, matin à partir de 8h00. Parlez-en aux coaches pour en savoir plus.
 * **10 décembre** : *Challenge Rennais Universitaire à Rennes*. Un événement accessible à tous les étudiants débutants et confirmé. Au programme les courses en 8+ et 4x sur 1000m le matin et un relais planche à ramer/ergomètres l’après-midi. Plus d'info sur [Facebook](https://www.facebook.com/events/208488996356122/)
 * **16 décembre** : *Journée de Noël*. Une journée sportive et festive ouverte à tous les licenciés remplie d'activités sportives et culminant d'un diner organisé par le BDE. Plus de détails sur [la page d'événement](https://www.facebook.com/events/243078559561177/)
 
