@@ -5,13 +5,13 @@ Ceci est la troisième édition de la newsletter UNA. On apprécie votre fidéli
 ## Important
 
 * **La campagne de dons de fin d'année est en cours et [accessible en ligne](https://www.donnerenligne.fr/universite-de-nantes-aviron/faire-un-don). Pour rappel les fonds collectés seront consacrés à l'achat du materiel tous publics suite à une décision collégiale des donateurs**
-* **Le 10 décembre prochain sera très chargé pour l'UNA ! Deux déplacements seront réalisés :**
-   Une délégation des athlètes se déplacera à Saumur pour participer à championnat régional Indoor
-   Une autre délégation composée principalement des étudiants ira à Rennes pour le Chammenge Rennais Universitaire
-* Plein d'activités sont prévues à l'UNA pour la Journée de Noël le 16 décembre.
-   Le matin : le biathlon aviron/course à pieds
-   L'après-midi : Sorties en 8+ pour tous et Avifit pour les parents de l'école d'aviron ([inscrivez-vous en ligne](https://doodle.com/poll/xebx9nntut63y7hz))
-   Le soir : Apéro et la raclette collective
+* **Le 10 décembre prochain sera très chargé pour l'UNA ! Deux déplacements seront réalisés :**  
+  - Une délégation des athlètes se déplacera à Saumur pour participer à championnat régional Indoor  
+  - Une autre délégation composée principalement des étudiants ira à Rennes pour le Chammenge Rennais Universitaire
+* **Plein d'activités sont prévues à l'UNA pour la Journée de Noël le 16 décembre.**  
+  - Le matin : le biathlon aviron/course à pieds  
+  - L'après-midi : Sorties en 8+ pour tous et Avifit pour les parents de l'école d'aviron ([inscrivez-vous en ligne](https://doodle.com/poll/xebx9nntut63y7hz))  
+  - Le soir : Apéro et la raclette collective
 
 ## Dernières actualités
 
@@ -26,5 +26,6 @@ Ceci est la troisième édition de la newsletter UNA. On apprécie votre fidéli
 
 ## Rappels généraux
 
+* Pour la commande du textile, mais aussi pour des badges, vous pouvez passez par une [page dédiée](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/vente-textile-2017-2018)
 * Les horaires de séances sont disponibles en [ligne](http://univ-nantes-aviron.fr/horaires). Soyez à l'heure et en tenue pour être bien accueillis !
 * Pas mal d'activité de la section compétition se déroule sur [Facebook](https://www.facebook.com/groups/178457672172317/). Les admins du groupe pourront vous accepter s'ils arrivent à vous identifier sur votre profil.
