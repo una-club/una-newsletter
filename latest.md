@@ -1,6 +1,6 @@
 ## Introduction
 
-Ceci est la troisième édition de la newsletter UNA. On apprécie votre fidélité et on est ravi de pouvoir communiquer toutes les actualités de la vie du club. N'hésitez pas à nous faire par de vos remarques en repondant tout simplement à ce message. Autrement si vous ne voulez plus recevoir la newsletter, suivez le lien en bas.
+Ceci est la troisième édition de la newsletter UNA. On apprécie votre fidélité et on est ravi de pouvoir communiquer toutes les actualités de la vie du club. N'hésitez pas à nous faire par de vos remarques en repondant tout simplement à ce message. Autrement si vous ne voulez plus recevoir la newsletter, suivez le lien en bas de page.
 
 ## Important
 
