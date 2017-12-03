@@ -15,7 +15,7 @@ Ceci est la troisième édition de la newsletter UNA. On apprécie votre fidéli
 
 ## Dernières actualités
 
-* Samedi 25 novembre l'assemblée générale a été tenue à l'UNA. En plus de la présentation du bilan de l'année et du projet pour la saison en cours, le nouveau conseil d'administration a été élu. La quasi-totalité des membres du conseil ont prolongé leur mandat.  Trois nouveaux membres  et 3 nouveaux membres l'ont rejoint : Clément Tiger, Mickael Tardy, et (en tant que présidente du BDE) Sophie Drenou.
+* Samedi 25 novembre l'assemblée générale a été tenue à l'UNA. En plus de la présentation du bilan de l'année et du projet pour la saison en cours, le nouveau conseil d'administration a été élu : André Migliati Levy, Benja Rousseau, Dimitri Boltz, Clément Tiger (nouveau, bureau, secrétaire), Sophie Drenou (bureau, présidente du BDE), Lionel Gérard, Jean-François Picaut (bureau, secrétaire adjoint), Jeff Abrahamson (bureau, trésorier), Laurent Cournede, Lucas Furet, Mickael Tardy (nouveau, bureau), Thierry Prott (bureau), Rabah Bouzidi, David Varaine (bureau, vice-président), Yann Lecieux (président).
 * Dimanche 26 novembre 13 équipages de l'UNA ont été composés à l'occasion de la journée nationale du huit. UNA est donc bien representé avec les minimes, les juniors et les seniors ont répondu présent pour participer à une course de 2500m. Le premier équipage de l'UNA se classe 5ème dans le classement générale avec les autres équipages bien classés dans leurs catégories.
 
 ## Calendrier
