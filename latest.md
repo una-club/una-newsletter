@@ -6,7 +6,7 @@ C'est la quatrième édition de la newsletter UNA et probablement la dernière d
 
 * **Fermeture du club** : Les coachs de l'UNA partent en vancances pour l'occasion de fêtes de fin d'année. Le club sera donc fermé entre le 23 décembre et le 1 janvier inclus.
 * **Stage club** : L'année 2018 commencera en force avec un stage au club proposé à tous les adhérents entre le 2 et le 6 janvier. Pour les inscriptions, il y a un [Doodle](https://doodle.com/poll/cssvqq6dctmfg42w)
-* **UNA se met au TRX** : UNA suit les dernières tendances et introduit [TRX](https://www.trxtraining.com/) dans son offre de séances encadrées. Allez sur [Youtube](https://youtu.be/eluwhseHw34) pour voir ce que l'on pourra faire avec cet engin et ensuite indiquez sur [Doodle](https://doodle.com/poll/iufrwz43ytwhxyqb) si vous êtes intéressés par une telle séance.
+* **UNA se met au TRX** : UNA suit les dernières tendances et introduit [TRX](https://www.trxtraining.com/) dans son offre de séances encadrées. Allez sur [Youtube](https://youtu.be/LEO7P1I8I4c) pour voir ce que l'on pourra faire avec cet engin et ensuite indiquez sur [Doodle](https://doodle.com/poll/iufrwz43ytwhxyqb) si vous êtes intéressés par une telle séance.
 * **Campagne de dons** : La cagnotte de notre campagne de dons se remplit doucement. Un grand merci à ceux qui ont déjà participé ! Ceux qui ne l'ont pas encore fait : n'hésitez pas ! Toute contribution compte. La campagne est toujours [accessible en ligne](https://www.donnerenligne.fr/universite-de-nantes-aviron/faire-un-don).
 
 ## Entrainement et Ecadrement
