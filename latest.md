@@ -17,7 +17,7 @@ Avec cette première lettre de l'année 2018 on présente à toutes et à tous n
 ## Calendrier
 
 * **20 janvier** : *Programme Jeunes rameurs @ UNA*. Une nouvelle étape du cycle d'évenements régionaux pour les J10-J14.
-* **10 février** : *Tête de rivière @ Nantes*. Une course de 6000m à Nantes sur le bassin que l'on connait bien. Engagement en bateaux courts (1x, 2-) et également une possibilité d'effectuer un parcours en bateau long.
+* **10 février** : *Tête de rivière @ Nantes*. Une course de 6000m à Nantes sur le bassin que l'on connait bien. Engagement en bateaux courts (1x, 2-) et également une possibilité d'effectuer le parcours en bateau long.
 
 ## Rappels généraux
 
