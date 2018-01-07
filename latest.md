@@ -1,32 +1,23 @@
 ## Introduction
 
-C'est la quatrième édition de la newsletter UNA et probablement la dernière de l'année 2017. Cette fois-ci nous avons plein de choses à vous raconter ! Nous en profitons également pour souhaiter des bonnes fêtes de fin d'année à tous les abonnées. Nous allons vous retrouver en 2018 avec plein de nouvelles actualités.
+Avec cette première letre de l'année 2018 on souhaite à toutes et tous une très belle année ! Sachez que l'UNA reste à votre disposition pour que vous puissez passe cette année en bonne santé et grande forme ! 
 
 ## Important
 
-* **Fermeture du club** : Les coachs de l'UNA partent en vacances pour l'occasion de fêtes de fin d'année. Le club sera donc fermé entre le 23 décembre et le 1 janvier inclus.
-* **Stage club** : L'année 2018 commencera en force avec un stage au club proposé à tous les adhérents entre le 2 et le 6 janvier. Pour les inscriptions, il y a un [Doodle](https://doodle.com/poll/cssvqq6dctmfg42w)
-* **UNA se met au TRX** : UNA suit les dernières tendances et introduit [TRX](https://www.trxtraining.com/) dans son offre de séances encadrées. Allez sur [Youtube](https://youtu.be/LEO7P1I8I4c) pour voir ce que l'on pourra faire avec cet engin et ensuite indiquez sur [Doodle](https://doodle.com/poll/iufrwz43ytwhxyqb) si vous êtes intéressés par une telle séance.
-* **Campagne de dons** : La cagnotte de notre campagne de dons se remplit doucement. Un grand merci à ceux qui ont déjà participé ! Ceux qui ne l'ont pas encore fait : n'hésitez pas ! Toute contribution compte. La campagne est toujours [accessible en ligne](https://www.donnerenligne.fr/universite-de-nantes-aviron/faire-un-don).
+* **UNA se met au TRX** : Ça y est ! [TRX](https://youtu.be/LEO7P1I8I4c) est là ! Les séances vont se dérouler tous les lundis à 18h15et démarrent dès demain, le 8 janvier. Attention : le nombre de places est limité (22 personnes maximum) et les retards ne sont pas acceptables.  N'hésitez donc pas à indiquer votre présence sur le [Doodle](https://doodle.com/poll/78whtbrprvnf5kpk) dédié.
+* **Avifit** : La prochaine séance d'avifit le 11 janvier est une séance exceptionnelle et se déroulera dans la salle d'honneur ! Dépéchez-vous pour vous [inscrire](https://doodle.com/poll/vvxdcb65vzptvy8r) ! Plus d'informations sur les séances suivantes seront communiquées très prochainement.
+* **Campagne de dons** : La collecte de dons de la fin d'année s'achève avec une somme de 630 Euros de la part de 9 contributeurs. Un grand merci à ceux qui ont donné : nous allons revenir vers vous pour discuter de la manière de dépence et en attendant nous gardons la cagnotte toujours ouverte et [accessible en ligne](https://www.donnerenligne.fr/universite-de-nantes-aviron/faire-un-don).
+* **Stage de printemps** : Après de longues recherches et un effort de planification considérable nous avons finalement établit le lieu et la date de stage de printemps : cette année pour la troisième fois nous allons à Mauzac-et-Grand-Castang le 7 mai pour un stage de 6 jours. Au programme, pension complète, nutrition équilibrée et plein de sport ! Un événement incontournable pour tous ceux qui souhaitent participer aux compétitions de la fin de la saison. Les inscriptions se font [en ligne](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/stage-de-printemps-a-mauzac-et-grand-castang).
 
 ## Entrainement et Encadrement
 
 * Tous les mardis et vendredis à 18h15, nous avons des séances de renforcement musculaire collective et en musique ouvertes à tous les niveaux (à partir de J12). Les parents motivés pour découvrir cette séance sont également les bienvenus.
-* Depuis quelques semaines tous les jeudis nous avons des séances d'avifit encadrées par Cécile. Les dernières de cette année auront lieu le 21 et vous pouvez encore vous [inscrire en ligne](https://doodle.com/poll/vvxdcb65vzptvy8r)
-
-## Dernières actualités
-
-* Une délégation de 24 athlètes est partie à Saumur le 10 décembre pour participer au Championnat Régional d'Aviron Indoor. 5 équipes ont été engagées aux épreuves du Championnat Jeune (J11-J14), 4 juniors (J16-18 Homme et Femme) et 1 Senior ont été engagés au Championnat Indoor sur 2000m.
-Des performances encourageantes pour tout le monde avec des récompenses pour certains. La journée s'achève avec les résultats suivants :
-  - Championnat Jeune : 1ere et 2ème places pour les équipes En J12 garçons, 3ème et 8ème places pour les équipes J14 garçons et 9ème place pour J14 filles  
-  - Championnat Indoor : 1ère place en Seniors hommes poids léger, 13ème et 15ème places en J18 hommes (sur 22 engagés), 8ème place en J16 femmes (sur 38 engagées) et 34ème place en J16 hommes (sur 64 engagés !)
-* Le même jour le 10 décembre, une équipe des étudiants est partir à Rennes pour un Challenge Rennais Universitaire. Le premier huit hommes composé des rameurs expérimentés se place premier dans le classement général (sur 4 bateaux engagés) après avoir gagné les courses de 1000m sur l’eau, le parcours en planche et le relais à l’ergo. Le deuxième huit hommes composé des débutants et des expérimentés finit 2ème. Le huit filles finit deuxième (sur 2 bateaux engagés).
-* Le 16 décembre à l'UNA s'est déroulé le biathlon de Noël organisé pour les adhérents du club. Un événement bien réussi avec 53 participants et 12 bateaux engagés. Après un parcours en 4 sur 4km et une course à pieds sur 3km, c'est l'équipage des jeunes (J14-J15) qui se classe en premier !
+* N'oubliez pas les entrainements d'ergo tous les mercredis à 18h15 qui se terminent par une séance d'abdos, gainage et étirements.
 
 ## Calendrier
 
-* **23 décembre - 1 janvier** : *Fermeture du club* Restez en forme pendant les fêtes et rendez-vous le 2 janvier por la reprise.
-* **2 janvier - 5 janvier** : *Stage club de nouvel an*. Les inscriptions se font via [Doodle](https://doodle.com/poll/cssvqq6dctmfg42w).
+* **20 janvier** : *Programme Jeunes rameurs @ UNA*. Une nouvelle étape du cycle d'évenements régionaux pour les J10-J14.
+* **10 février** : *Tête de rivière @ Nantes*. Une course de 6000m à Nantes sur le bassin que l'on connait bien. Engagement en bateaux courts (1x, 2-) mais également une possibilité d'effectuer un parcour en bateau long.
 
 ## Rappels généraux
 
