@@ -1,6 +1,6 @@
 ## Introduction
 
-Avec cette première lettre de l'année 2018 on présente à toutes et à tous nos meilleurs voeux ! Sachez que l'UNA reste à votre disposition pour que vous puissiez passer cette année en bonne santé et grande forme ! 
+Avec cette première lettre de l'année 2018 on présente à toutes et à tous nos meilleurs voeux ! Sachez que toute l'équipe de l'UNA reste à votre disposition pour que vous puissiez passer cette année en bonne santé et grande forme ! 
 
 ## Important
 
