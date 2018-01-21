@@ -10,13 +10,13 @@ script: node build.js
 
 deploy: 
   on:
-    branch: releases
-    condition: true
+    tags: true
   script: node index.js
 
 after_deploy:
   - echo ${TRAVIS_PULL_REQUEST}
   - echo ${TRAVIS_BRANCH}
+  - echo ${TRAVIS_TAG}
   - echo ${TRAVIS_EVENT_TYPE}
   - node index.js
   - git clone https://github.com/una-club/una-newsletter.git repo
