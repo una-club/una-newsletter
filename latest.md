@@ -25,7 +25,6 @@ L'année 2018 démarre tranquillement et à l'UNA l'activité tourne à fond. Si
 * **27 janvier à 17h** : *Gouter Galette des Rois*. Un gouter convivial ouvert à tous les adhérents du club pour marquer la tradition.
 * **11 février** : *Tête de rivière @ Nantes*. Une course de 6000m à Nantes sur le bassin que l'on connait bien. Engagement en bateaux courts (1x, 2-) et également une possibilité d'effectuer le parcours en bateau long.
 * **17 février** : *Soirée Boys Band à l'UNA*. Une soirée ouverte à tous les adhérents majeurs du club. Plus d'info à venir !
-* **1 Mars** : *Soirée et Tonus @ Australian Café et Warehouse* * Comme tous les ans UNA participe à l'organisation de la soirée avec nos partenaires, Australian Café, Warehouse, Jurisnantes. Préparez-vous : plus d'info à venir très prochainement !
 
 ## Rappels généraux
 
