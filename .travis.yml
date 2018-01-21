@@ -4,12 +4,9 @@ node_js:
 
 branches:
   only:
-  - master
+  - releases
 
-deploy:
-  skip_cleanup: true
-
-before_install:
+after_success:
   - git clone https://github.com/una-club/una-newsletter.git repo
   - mkdir repo/history/
   - mv history/* repo/history/
