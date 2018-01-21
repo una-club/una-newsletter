@@ -45,11 +45,11 @@ var data = {
   subject: '[UNA] Newsletter du ' + date,
   html: output
 };
-
+/*
 mailgun.messages().send(data, function (error, body) {
   console.log(body);
 });
-
+*/
 
 try{
   fs.mkdirSync('history')
