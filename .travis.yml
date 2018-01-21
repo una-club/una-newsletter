@@ -9,6 +9,9 @@ branches:
 script: node build.js
 
 deploy: 
+  on:
+    branch: releases
+    condition: true
   script: node index.js
 
 after_deploy:
