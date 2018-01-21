@@ -5,8 +5,13 @@ node_js:
 branches:
   only:
   - releases
+  
+script: node build.js
 
-after_script:
+deploy: 
+  script: node index.js
+
+after_deploy:
   - echo ${TRAVIS_PULL_REQUEST}
   - echo ${TRAVIS_BRANCH}
   - echo ${TRAVIS_EVENT_TYPE}
