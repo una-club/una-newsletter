@@ -5,8 +5,16 @@ node_js:
 branches:
   only:
   - releases
+  
+script: node build.js
+
+deploy: 
+  script: node index.js
 
 after_deploy:
+  - echo ${TRAVIS_PULL_REQUEST}
+  - echo ${TRAVIS_BRANCH}
+  - echo ${TRAVIS_EVENT_TYPE}
   - node index.js
   - git clone https://github.com/una-club/una-newsletter.git repo
   - mkdir repo/history/
