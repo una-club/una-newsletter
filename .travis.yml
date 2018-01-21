@@ -6,7 +6,7 @@ branches:
   only:
   - releases
 
-after_deploy:
+after_script:
   - node index.js
   - git clone https://github.com/una-club/una-newsletter.git repo
   - mkdir repo/history/
