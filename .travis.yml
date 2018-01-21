@@ -6,7 +6,10 @@ branches:
   only:
   - master
 
-after_success:
+deploy:
+  skip_cleanup: true
+
+before_install:
   - git clone https://github.com/una-club/una-newsletter.git repo
   - mkdir repo/history/
   - mv history/* repo/history/
