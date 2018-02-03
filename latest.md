@@ -6,7 +6,7 @@ Nous sommes bientôt à la moitié de la saison sportive. La tête de rivière d
 
 * **Avifit** : Les séances Avifit continuent tous les jeudis ! Si vous ne l'avez pas encore fait, pour assister aux séances vous devez vous procurer [en ligne](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/cartes-seances-indoor-a-l-una) les cartes valables pour 10 séances. Pour vous inscrire aux séances [un Doodle](https://doodle.com/poll/7umitbx3fi3zkuay) est mis en place.
 * **Soirée Boys Band le 16 février**. Une soirée post-partiels est organisée pour tous les adhérents adultes du club (même si vous n'êtes pas concernés par les parties) sur le thème Boys/Girls band. Toutes les actus sur l'événement sont [sur Facebook](https://www.facebook.com/events/557040817990087/).
-* **Stage de printemps à Mauzac-et-Grand-Castang du 7 à 12 mai**. Les inscriptions sont encore ouvertes pour le stage de printemps. C'est un événement incoutournable pour la préparation aux compétitions de fin d'année permettant de réaliser le travail de qualité tout en développant l'esprit d'équipe. Les inscriptions se font [en ligne](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/stage-de-printemps-a-mauzac-et-grand-castang). Et vous pouvez voir [sur Youtube](https://youtu.be/9-01WItXess) un aperçu du travail réalisé l'année dernière.
+* **Stage de printemps à Mauzac-et-Grand-Castang du 7 à 12 mai**. Les inscriptions sont encore ouvertes pour le stage de printemps. C'est un événement incontournable pour la préparation aux compétitions de fin d'année permettant de réaliser le travail de qualité tout en développant l'esprit d'équipe. Les inscriptions se font [en ligne](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/stage-de-printemps-a-mauzac-et-grand-castang). Et vous pouvez voir [sur Youtube](https://youtu.be/9-01WItXess) un aperçu du travail réalisé l'année dernière.
 
 ## Entrainement et Encadrement
 
@@ -26,3 +26,4 @@ Nous sommes bientôt à la moitié de la saison sportive. La tête de rivière d
 * Les horaires de séances sont disponibles en [ligne](http://univ-nantes-aviron.fr/page/horaires). Soyez à l'heure et en tenue pour être bien accueillis !
 * Pas mal d'informations sur les entraînements sont publiées sur [Facebook](https://www.facebook.com/groups/178457672172317/). Les admins du groupe pourront vous accepter s'ils arrivent à vous identifier sur votre profil.
 * Pour la commande du textile, mais aussi pour des badges, vous pouvez passer par une [page dédiée](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/vente-textile-2017-2018)
+
