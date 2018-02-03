@@ -4,14 +4,8 @@ node_js:
 
 branches:
   only:
-  - releases
-  
-script: node build.js
+  - master
 
-deploy: 
-  on:
-    tags: true
-  script: node index.js
 
 after_deploy:
   - echo ${TRAVIS_PULL_REQUEST}
