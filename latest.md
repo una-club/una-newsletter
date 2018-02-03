@@ -9,6 +9,7 @@ Nous sommes bientôt à la moitié de la saison sportive. La tête de rivière d
 * **Stage de printemps à Mauzac-et-Grand-Castang du 7 à 12 mai**. Les inscriptions sont encore ouvertes pour le stage de printemps. C'est un événement incontournable surtout pour la préparation aux compétitions de fin d'année. Les inscriptions se font [en ligne](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/stage-de-printemps-a-mauzac-et-grand-castang). Et vous pouvez voir [sur Youtube](https://youtu.be/9-01WItXess) un aperçu du stage de l'année dernière.
 * **Permis bateau avec l'école Cravic Veillon**. L'UNA bénéficie d'une offre promotionnelle pour l'obtention des permis bateaux avec l'école [Cravic Veillon](http://www.ocean-formation.com). Si vous voulez savoir plus, parlez-en à David Varaine (davidvaraine[at]gmail.com)
 
+
 ## Entrainement et Encadrement
 
 * Les séances sur l'eau indiquées sur [le site du club](http://univ-nantes-aviron.fr/page/horaires) sont toujours maintenues. N'hésitez pas à venir ramer si vous avez un moment de dispo.  
