@@ -18,13 +18,13 @@ Au Championnat Jeunes 5 équipages de l'UNA ont pu se présenter, et là aussi, 
 Tous les ans, au mois de mai, l'UNA organise les [Régataïades](http://regataiades.fr/), une régate universitaire, ouverte désormais au public de masters. Cette année la régate aura lieu le 5 et le 6 mai et le comité de pilotage s'est déjà mis au travail. Nous avons plein de travail en amont et vous pouvez aussi y contribuer.
 
 * **Réunion de présentation** d'activité bénévole aura lieu le 17 mars après l'entrainement du matin. Ouverture de la salle vers 11h30 et la réunion démarrera à 12h. Nous allons parler de toutes les tâches disponibles aux bénévoles avant, après et pendant l'événement.
-* **Recherche de partenaires** est actuellement en cours. Si vous connaissez quelqu'un dans votre environnement qui serait intéressé par une visibilité que les Régataïades puissent ouvrir, n'hésitez pas à lui en parler. Il y a plus de détails sur le [site du la régate](http://regataiades.fr/#partnership).
+* **Recherche de partenaires** est actuellement en cours. Si vous connaissez quelqu'un dans votre environnement qui serait intéressé par une visibilité que les Régataïades puissent ouvrir, touchez lui un mot. Il y a plus de détails sur le [site du la régate](http://regataiades.fr/#partnership).
 
 Pour toutes questions et renseignements, écrivez support@regataiades.fr.
 
 ## Entrainement et Encadrement
 
-* Les séances sur l'eau indiquées sur [le site du club](http://univ-nantes-aviron.fr/page/horaires) sont toujours maintenues. N'hésitez pas à venir ramer si vous avez un moment de dispo.  
+* Les séances sur l'eau indiquées sur [le site du club](http://univ-nantes-aviron.fr/page/horaires) sont toujours maintenues. Venez ramer si vous avez un moment de dispo.  
 * Tous les mardis et vendredis à 18h15, nous avons des séances de renforcement musculaire collective et en musique ouvertes à tous les niveaux (à partir de J12). Les parents motivés pour découvrir cette séance sont également les bienvenus.
 * Les lundis à 18h15 se déroulent les séances de renforcement musculaire sur les suspensions ([vidéo](https://youtu.be/LEO7P1I8I4c)). Le nombre de places est limité (20 personnes maximum) et les retards ne sont pas acceptables. Regardez bien le [Doodle](https://doodle.com/poll/78whtbrprvnf5kpk) dédié : certains lundis du mois les séances peuvent être annulées.
 * N'oubliez pas non plus les entrainements d'ergo tous les mercredis à 18h15 qui se terminent par une séance d'abdos, gainage et étirements.
