@@ -4,7 +4,7 @@ Par beau et mauvais temps, à l'UNA il y a [toujours](http://univ-nantes-aviron.
 
 ## Important
 
-* **Vacances d'hiver** : le club reste ouvert pendant les vacances d'hiver. Toutes les séances sont maintenues, sauf les samedis après-midi. En plus, il y a un [stage](https://doodle.com/poll/nvw775u3aty2yph9) ouvert au jeune public pendant les deux semaines.
+* **Vacances d'hiver** : le club reste ouvert pendant les vacances d'hiver. Toutes les séances sont maintenues, sauf les samedis après-midi (24/02, 3/03, 10/03). En plus, il y a un [stage](https://doodle.com/poll/nvw775u3aty2yph9) ouvert à tous pendant les deux semaines.
 * **Textile** : Cette semaine nous avons reçu [les sweats à capuche](https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/27993725_10212617211479830_5900291545381218093_o.jpg?oh=836f0f0cd5a6519e99cc5e6da956ef6b&oe=5B0361B5) de l'UNA.  Ils sont beaux et ils tiennent chaud. Vous pouvez les commander [en ligne](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/vente-textile-2017-2018).
 * **Avifit** : Les séances [Avifit](http://univ-nantes-aviron.fr/page/aviron-avifit) continuent tous les jeudis ! Si vous les connaissez déjà, n'hésitez pas à en parler à vos amis et proches : c'est une bonne formule pour ceux qui cherchent à pratiquer le sport de manière régulière en format ludique. Et si vous ne connaissez pas encore, venez les [découvrir](https://doodle.com/poll/7umitbx3fi3zkuay).
 
