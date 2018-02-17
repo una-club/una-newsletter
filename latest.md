@@ -18,7 +18,7 @@ Au Championnat Jeunes 5 équipages de l'UNA ont pu se présenter, et là aussi, 
 Tous les ans, au mois de mai, l'UNA organise les [Régataïades](http://regataiades.fr/), une régate universitaire, ouverte désormais au public de masters. Cette année la régate aura lieu le 5 et le 6 mai et le comité de pilotage s'est déjà mis au travail. Nous avons plein de travail en amont et vous pouvez aussi y contribuer.
 
 * **Réunion de présentation** d'activité bénévole aura lieu le 17 mars après l'entrainement du matin. Ouverture de la salle vers 11h30 et la réunion démarrera à 12h. Nous allons parler de toutes les tâches disponibles aux bénévoles avant, après et pendant l'événement.
-* **Recherche de partenaires** est actuellement en cours. Si vous connaissez quelqu'un dans votre environnement qui serait intéressé par une visibilité que les Régataïades puissent ouvrir, n'hésitez pas à leur en parler. Il y a plus de détails sur le [site du la régate](http://regataiades.fr/#partnership).
+* **Recherche de partenaires** est actuellement en cours. Si vous connaissez quelqu'un dans votre environnement qui serait intéressé par une visibilité que les Régataïades puissent ouvrir, n'hésitez pas à lui en parler. Il y a plus de détails sur le [site du la régate](http://regataiades.fr/#partnership).
 
 Pour toutes questions et renseignements, écrivez support@regataiades.fr.
 
