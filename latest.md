@@ -1,6 +1,6 @@
 ## Introduction
 
-Par beau et mauvais temps, à l'UNA il y a [toujours](http://univ-nantes-aviron.fr/page/horaires) un entraînement : les séances sur l'eau, les séances de cross-training, d'avifit, d'érgomètre. Choisissez les horaires qui vous conviennent et venez pratiquer le sport. Et pour ceux qui souhaitent se mettre à l'épreuve, soyez libre de venir plus souvent. Sachez que la saison de régates démarre bientôt avec la régate de Laval ouverte à tous le 25 mars et le championnat Inter-académique en avril pour les étudiants.
+Par beau et mauvais temps, à l'UNA il y a [toujours](http://univ-nantes-aviron.fr/page/horaires) un entraînement : les séances sur l'eau, les séances de cross-training, d'avifit, d'érgomètre. Choisissez les horaires qui vous conviennent et venez pratiquer le sport. Et pour ceux qui souhaitent se mettre à l'épreuve, soyez libre de venir plus souvent. Sachez que la saison de régates démarre bientôt avec la régate de Laval ouverte à tous le 25 mars et le championnat Inter-académique le 21 avril pour les étudiants.
 
 ## Important
 
