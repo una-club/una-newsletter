@@ -16,8 +16,8 @@ after_success:
   - git clone https://github.com/una-club/una-newsletter.git repo
   - cd repo
   - git checkout gh-pages
-  - mkdir repo/history/
-  - mv history/* repo/history/
+  - mkdir history/
+  - mv ../history/* history/
   - git config user.email mickael.a.tardy@gmail.com
   - git config user.name mickaeltardy
   - git add history/*
