@@ -1,17 +1,18 @@
 ## Introduction
 
-Par beau et mauvais temps, à l'UNA il y a [toujours](http://univ-nantes-aviron.fr/page/horaires) un entraînement : les séances sur l'eau, les séances de cross-training, d'avifit, d'érgomètre. Choisissez les horaires qui vous conviennent et venez pratiquer le sport. Et pour ceux qui souhaitent se mettre à l'épreuve, soyez libre de venir plus souvent. Sachez que la saison de régates démarre bientôt avec la régate de Laval ouverte à tous le 25 mars et le championnat Inter-académique le 21 avril pour les étudiants.
+Il a fait bien froid ce dernier temps. Difficile de sortir sur l'eau par des températures négatives le matin. Nous avons tout de même gardé notre dynamique d'entraînement, et, entre autres, nous avons pu diversifier le programme. Pendant les vacances d'hiver nous avons intégré [des nouveaux exercices](https://www.youtube.com/watch?v=-YrpMoh23_c) dans les séances de renforcement musculaire de mardi et vendredi. Cela permet de sortir de la routine et de travailler différemment. C'est aussi une occasion de redécouvrir quelques muscles oubliés.
 
 ## Important
 
-* **Vacances d'hiver** : Bonne nouvelle ! le club reste ouvert pendant les vacances d'hiver et toutes les séances sont maintenues, sauf les samedis après-midi (24/02, 3/03, 10/03). En plus, il y a un stage ouvert à tous pendant les deux semaines. Pensez à [vous inscrire](https://doodle.com/poll/nvw775u3aty2yph9) pour faciliter la logistique.
-* **Textile** : Cette semaine nous avons reçu [les sweats à capuche](https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/27993725_10212617211479830_5900291545381218093_o.jpg?oh=836f0f0cd5a6519e99cc5e6da956ef6b&oe=5B0361B5) de l'UNA.  Ils sont beaux et ils tiennent chaud. Vous pouvez les commander [en ligne](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/vente-textile-2017-2018).
-* **Avifit** : Les séances [Avifit](http://univ-nantes-aviron.fr/page/aviron-avifit) continuent tous les jeudis ! Si vous les connaissez déjà, n'hésitez pas à en parler à vos amis et proches : c'est une bonne formule pour ceux qui cherchent à pratiquer le sport de manière régulière en format ludique. Et si vous ne connaissez pas encore, venez les [découvrir](https://doodle.com/poll/7umitbx3fi3zkuay).
+* **Prix réduit d'adhésion** A partir de la rentrée le 12 mars nous baissons les prix d'adhésion pout tous publics : **175€** au lieu de **260€** ! Parlez-en autour de vous : c'est une très belle occasion à saisir surtout avec le beau temps qui revient et bientôt le passage à l'heure d'été. Et bien entendu, cette adhésion ouvre accès à toutes les séances dispensées par le club.
+* **Avifit** : Grande nouvelle : les horaires des séances changent à partir de 8 mars (la séance du 8 est maintenue). Désormais une seule séance est dispensée à 19h : n'hésitez pas à venir à 18h50, puisqu'on démarrera à 19h pile. Le principe est toujours le même : inscrivez-vous sur [doodle](https://doodle.com/poll/7umitbx3fi3zkuay) et venez faire du sport dans une bonne ambiance.
+* **Vacances d'hiver** : N'oubliez pas, le club est ouvert pendant les vacances et toutes les séances sont maintenues, sauf les samedis après-midi (10/03). Si vous êtes disponibles et motivés, venez au stage dispensé les après-midi. Pensez à [vous inscrire](https://doodle.com/poll/nvw775u3aty2yph9).
 
-## Dernières actualités
+## Calendrier
 
-* Dimanche dernier, le 11 février, l'Erdre était très animée. Le même jour se sont déroulés la tête de rivière pour les rameurs de plus de 15 ans et le Championnat Jeunes pour les jeunes athlètes de 10 - 14 ans réunissant presque 450 sportifs. L'UNA était bien présent aux deux événements avec les engagés dans plusieurs catégories. 44 rameurs ont participé à la tête de rivière. Nombreux se classent en haut des listes, avec notamment des victoires en skiff juniors J18, en deux sans barreur seniors, en doubles cadettes J16, ainsi qu'une troisième place chez les filles cadettes J16.
-Au Championnat Jeunes 5 équipages de l'UNA ont pu se présenter, et là aussi, les athlètes montrent des belles performances et la progression depuis le début de l'année. L'équipage de garçons le plus expérimenté se place deuxième et les filles se placent 5ème. Vous pouvez consulter l'intégralité des résultats sur le site de la ligue pour la [tête de rivière](http://www.avironpdl.fr/resultats/17-18/Classement-TdR_Nantes11fev18.pdf) et le [Championnat Jeunes](http://www.avironpdl.fr/resultats/17-18/ChampionnatJeuneFFAClassement-11fev18.pdf).
+* **17 mars** Réunion de présentation d'activité bénévole pour les [Régataïades](http://regataiades.fr/) aura lieu après l'entrainement du matin. Ouverture de la salle vers 11h30 et la réunion démarrera à 12h. Nous allons parler de toutes les tâches disponibles aux bénévoles avant, après et pendant l'événement.
+* **25 mars** : *Régate de Laval*. Il s'agit de la première régate tout public de la saison. Plusieurs catégories sont ouvertes pour tous les ages. Parlez-en aux coachs pour vous mettre en éqiupe et venir vous tester.
+* **Stage de printemps à Mauzac-et-Grand-Castang du 7 à 12 mai**. Les inscriptions sont encore ouvertes pour le stage de printemps. C'est un événement incontournable surtout pour la préparation aux compétitions de fin d'année (FFSU, Champtionnat bateaux longs). Les inscriptions se font [en ligne](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/stage-de-printemps-a-mauzac-et-grand-castang). Et vous pouvez voir [sur Youtube](https://youtu.be/9-01WItXess) un aperçu du stage de l'année dernière.
 
 ## Régataïades
 
@@ -20,20 +21,14 @@ Tous les ans, au mois de mai, l'UNA organise les [Régataïades](http://regataia
 * **Réunion de présentation** d'activité bénévole aura lieu le 17 mars après l'entrainement du matin. Ouverture de la salle vers 11h30 et la réunion démarrera à 12h. Nous allons parler de toutes les tâches disponibles aux bénévoles avant, après et pendant l'événement.
 * **Recherche de partenaires** est actuellement en cours. Si vous connaissez quelqu'un dans votre environnement qui serait intéressé par une visibilité que les Régataïades puissent ouvrir, touchez lui un mot. Il y a plus de détails sur le [site du la régate](http://regataiades.fr/#partnership).
 
-Pour toutes questions et renseignements, écrivez support@regataiades.fr.
+Pour les questions et renseignements, contactez support@regataiades.fr.
 
 ## Entrainement et Encadrement
 
 * Les séances sur l'eau indiquées sur [le site du club](http://univ-nantes-aviron.fr/page/horaires) sont toujours maintenues. Venez ramer si vous avez un moment de dispo.  
 * Tous les mardis et vendredis à 18h15, nous avons des séances de renforcement musculaire collective et en musique ouvertes à tous les niveaux (à partir de J12). Les parents motivés pour découvrir cette séance sont également les bienvenus.
-* Les lundis à 18h15 se déroulent les séances de renforcement musculaire sur les suspensions ([vidéo](https://youtu.be/LEO7P1I8I4c)). Le nombre de places est limité (20 personnes maximum) et les retards ne sont pas acceptables. Regardez bien le [Doodle](https://doodle.com/poll/78whtbrprvnf5kpk) dédié : certains lundis du mois les séances peuvent être annulées.
+* Les lundis à 18h15 se déroulent les séances de renforcement musculaire sur les suspensions ([vidéo](https://youtu.be/LEO7P1I8I4c)). Le nombre de places est limité (20 personnes maximum). Regardez bien le [Doodle](https://doodle.com/poll/78whtbrprvnf5kpk) dédié : certains lundis du mois les séances peuvent être annulées (par exemple pas de séance le 5 mars).
 * N'oubliez pas non plus les entrainements d'ergo tous les mercredis à 18h15 qui se terminent par une séance d'abdos, gainage et étirements.
-
-## Calendrier
-
-* **1 mars** : *Tonus We are Kitsch*. En équipe avec Juris'Nantes, l'UNA organise le tonus à Australian Café et Warehouse ! Toujours plein d'info [sur Facebook](https://www.facebook.com/events/196507831093433/).
-* **25 mars** : *Régate de Laval*. Il s'agit de la première régate tout public de la saison. Plusieurs catégories sont ouvertes pour tous les ages. Parlez-en aux coachs pour vous mettre en éqiupe et venir vous tester.
-* **Stage de printemps à Mauzac-et-Grand-Castang du 7 à 12 mai**. Les inscriptions sont encore ouvertes pour le stage de printemps. C'est un événement incontournable surtout pour la préparation aux compétitions de fin d'année. Les inscriptions se font [en ligne](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/stage-de-printemps-a-mauzac-et-grand-castang). Et vous pouvez voir [sur Youtube](https://youtu.be/9-01WItXess) un aperçu du stage de l'année dernière.
 
 ## Rappels généraux
 
