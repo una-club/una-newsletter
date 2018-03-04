@@ -14,9 +14,10 @@ after_success:
   - echo ${TRAVIS_EVENT_TYPE}
   - node index.js
   - git clone https://github.com/una-club/una-newsletter.git repo
+  - cd repo
+  - git checkout gh-pages
   - mkdir repo/history/
   - mv history/* repo/history/
-  - cd repo
   - git config user.email mickael.a.tardy@gmail.com
   - git config user.name mickaeltardy
   - git add history/*
@@ -29,7 +30,7 @@ after_success:
   - git config user.name mickaeltardy
   - git submodule update --init --recursive
   - cd una-newsletter
-  - git checkout develop
+  - git checkout gh-pages
   - cd ..
   - git add una-newsletter
   - git commit -m "Update newsletter"
