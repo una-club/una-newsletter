@@ -1,6 +1,6 @@
 ## Introduction
 
-Il a fait bien froid ce dernier temps. Difficile de sortir sur l'eau par des températures négatives le matin. Nous avons tout de même gardé notre dynamique d'entraînement, et, entre autres, nous avons pu diversifier le programme. Pendant les vacances d'hiver nous avons intégré [des nouveaux exercices](https://www.youtube.com/watch?v=-YrpMoh23_c) dans les séances de renforcement musculaire de mardi et vendredi. Cela permet de sortir de la routine et de travailler différemment. C'est aussi une occasion de redécouvrir quelques muscles oubliés.
+Il a fait bien froid ce dernier temps. Difficile de sortir sur l'eau par des températures négatives le matin. Malgre cela nous avons gardé notre dynamique d'entraînement, et, entre autres, nous avons pu diversifier le programme. Pendant les vacances d'hiver nous avons intégré [des nouveaux exercices](https://www.youtube.com/watch?v=-YrpMoh23_c) dans les séances de renforcement musculaire de mardi et vendredi. Cela permet de sortir de la routine et de travailler différemment. C'est aussi une occasion de redécouvrir quelques muscles oubliés. Ne soyez donc pas surpris mardi prochain !
 
 ## Important
 
