@@ -33,5 +33,5 @@ after_script:
   - git checkout gh-pages
   - cd ..
   - git add una-newsletter
-  - git commit -m "Update newsletter"
+  - git commit -m "Update repo with latest newsletter"
   - git push --repo=https://${GITHUB_TOKEN}@github.com/una-club/una-club.github.io.git
