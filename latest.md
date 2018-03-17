@@ -7,7 +7,7 @@ Une note à part : il s'agit de la 10me édition de la newsletter UNA ! Merci à
 ## Important
 
 * **Prix réduit d'adhésion** : à partir de la rentrée le 12 mars nous avons baissé les prix d'adhésion pout tous publics : **175€** au lieu de **260€** ! Parlez-en autour de vous : c'est une très belle occasion à saisir surtout avec le beau temps qui revient et bientôt le passage à l'heure d'été. Et bien entendu, cette adhésion ouvre accès à toutes les séances dispensées par le club.
-* **Passage à l'heure d'été** est imminent. A partir de 27 mars nous pourrons sortir sur l'eau les soirs. Sachez qu'on va probablement maintenir une des deux séances de renforcement musculaire ainsi que les séances d'AviFit.
+* **Passage à l'heure d'été** est imminent. A partir de 27 mars nous pourrons sortir sur l'eau les soirs. On va maintenir une séance de renforcement musculaire mardi soir ainsi que les séances d'AviFit.
 * **La saison de compétition** est arrivée. Cela veut dire des week-ends bien chargés, mais aussi de la continuité des entrainements et la poursuite des travaux démarrés au début de l'année.
 
 ## Calendrier
