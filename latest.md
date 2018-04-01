@@ -1,6 +1,6 @@
 ## Introduction
 
-Les semaines deviennent bien chargées. Avec les journées qui se rallongent on sort plus souvent sur l'eau et les week-ends sont pris par les déplacements et les régates. La newletter n'est pas diffusée aussi souvent. Consultez donc vos messageries et le [groupe Facebook du club](https://www.facebook.com/groups/178457672172317/) pour être au courant de toutes les activités.
+Les semaines deviennent bien chargées. Avec les journées qui se rallongent on sort plus souvent sur l'eau et les week-ends sont pris par les déplacements et les régates. Consultez donc vos messageries et le [groupe Facebook du club](https://www.facebook.com/groups/178457672172317/) pour être au courant de toutes les activités. Soyez aussi prêts à un peu de lecture dans la newslettre : nous avons pas mal de choses à partager !
 
 ## Important
 
