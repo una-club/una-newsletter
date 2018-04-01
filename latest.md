@@ -16,7 +16,7 @@ Les semaines deviennent bien chargées. Avec les journées qui se rallongent on 
 * **7 avril** : *Portes ouvertes* à l'UNA.
 * **7 avril** : *Championnat et découverte de l'aviron de mer* à la Turballe pour tous les étudiants.  
 * **7 avril** : *Championnat J16 de Pays de La Loire à Vitré*. Une épreuve régionale importante pour nos jeunes rameurs.
-* **14 - 15 avril** : *Championnat National Bateaux Courts*. Une date clé pour les meilleurs rameurs de France.
+* **13 - 15 avril** : *Championnat National Bateaux Courts*. Une date clé pour les meilleurs rameurs de France. UNA y sera representé ! 
 * **15 avril** : *Régate de Chateau Gontier*. Une deuxième régate ouverte à tous de la saison. Plusieurs courses de 1000m dans un contexte sympa.
 * **21 avril** : *Championnat inter académique*. Première étape pour nos rameurs étudiants avant les championnats FFSU en mai. Les équipages sont en cours de constitution.
 * **5 - 6 mai** : *Regataiades*. L'évènement majeur de la vie du club !
