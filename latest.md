@@ -1,6 +1,6 @@
 ## Introduction
 
-Avec la saison d'aviron bien entamée on rentre dans la période bien remplie : des régates, des stages, des randonnées. Il y en a pour tous les gouts. Plein d'informations circulent au club, sur le [groupe Facebook du club](https://www.facebook.com/groups/178457672172317/) et sur les listes de diffusion, donc stay tuned. Et le meilleur moyen d'être au courant c'est toujours venir ramer, surtout qu'il commence à faire beau plus souvent.
+Avec la saison d'aviron bien entamée on rentre dans la période bien remplie : des régates, des stages, des randonnées. Il y en a pour tous les gouts. Plein d'informations circulent au club, sur le [groupe Facebook du club](https://www.facebook.com/groups/178457672172317/) et sur les listes de diffusion, donc stay tuned. Mais le meilleur moyen d'être au courant est toujours venir ramer, surtout avec le beau temps au rendez-vous.
 
 ## Important
 
