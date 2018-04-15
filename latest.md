@@ -1,43 +1,44 @@
 ## Introduction
 
-Les semaines deviennent bien chargées. Avec les journées qui se rallongent on sort plus souvent sur l'eau et les week-ends sont pris par les déplacements et les régates. Consultez donc vos messageries et le [groupe Facebook du club](https://www.facebook.com/groups/178457672172317/) pour être au courant de toutes les activités. Soyez aussi prêts à un peu de lecture dans la newslettre : nous avons pas mal de choses à partager !
+Avec la saison d'aviron bien entamée on rentre dans la période bien remplie : des régates, des stages, des randonnées. Il y en a pour tous les gouts. Plein d'informations circulent au club, sur le [groupe Facebook du club](https://www.facebook.com/groups/178457672172317/) et sur les listes de diffusion, donc stay tuned. Mais le meilleur moyen d'être au courant est toujours venir ramer, surtout avec le beau temps au rendez-vous.
 
 ## Important
 
-* **Les séances sur l'eau** sont désormais dispensées mercredi et vendredi soir avec le passage à l'heure d'été.
-* **La journée de Portes Ouvertes** à l'UNA le 7 avril c'est une très belle occasion pour tous vos amis et proches pour découvrir votre activité préférée. N'hésitez pas à en parler autour de vous, et aussi des prix reduits.
-* **Championnat et découverte de l'aviron de mer** sont organisés le 7 avril à La Turballe pour tous les étudiants : dépéchez-vous pour [vous inscrire](http://univ-nantes-aviron.fr/libraries/files/universite-nantes-aviron-una-file-9772781826.pdf).
-* **Regataiades** arrivent à grands pas. On cherche toujours des vonlotaires pour nous aider dans l'organisation. Le formulaire est disponible [en ligne](http://registration.regataiades.fr/fr/volunteering-registration#). **Attention**, suite à une faille logicielle nous avons perdu les inscriptions faites avant le 24 mars. N'hésitez donc pas à vous re-inscrire. Nous sommes désolés pour ce problème.
-* **Escalade pour tous** : Pour diversifier d'avantage notre activité sportive, nous proposons faire une séance collective d'escalade le 12 avril à [Vertical'art](https://nantes.vertical-art.fr) qui offre une entrée gratuite pour les groupes de plus de 30 personnes. Marquez-vous sur le [doodle](https://doodle.com/poll/b3kmt2gnyhr9fr32) si ça vous intéresse. Plus d'informations sont disponible sur la [page FB](https://www.facebook.com/events/178043786169794/). Sachez que les mineurs ont besoin [d'une autorisation parentale](http://univ-nantes-aviron.fr/libraries/files/universite-nantes-aviron-una-file-2840313883.pdf).
+* **Les séances sur l'eau** sont désormais dispensées les soirs : mercredi (pour tous) et vendredi (pour les initiés seulement)
+* **Regataiades** arrivent à grands pas. On a toujours besoin des volontaires pour nous aider dans l'organisation. Le formulaire est disponible [en ligne](http://registration.regataiades.fr/fr/volunteering-registration#). Si ça ne marche pas, écrivez juste sur contact@regataiades.fr. **Attention**, suite à une faille logicielle nous avons perdu les inscriptions faites avant le 24 mars. N'hésitez donc pas à vous réinscrire. Nous sommes désolés pour ce problème.
 * **Combi UNA** arrive très bientôt. Vous pouvez dès à présent voir le modèle [en ligne](http://univ-nantes-aviron.fr/libraries/images/universite-nantes-aviron-una-2-src-7832087389.jpg).
-
-## Calendrier
-
-* **7 avril** : *Portes ouvertes* à l'UNA.
-* **7 avril** : *Championnat et découverte de l'aviron de mer* à la Turballe pour tous les étudiants.  
-* **7 avril** : *Championnat J16 de Pays de La Loire à Vitré*. Une épreuve régionale importante pour nos jeunes rameurs.
-* **13 - 15 avril** : *Championnat National Bateaux Courts*. Une date clé pour les meilleurs rameurs de France. UNA y sera representé ! 
-* **15 avril** : *Régate de Chateau Gontier*. Une deuxième régate ouverte à tous de la saison. Plusieurs courses de 1000m dans un contexte sympa.
-* **21 avril** : *Championnat inter académique*. Première étape pour nos rameurs étudiants avant les championnats FFSU en mai. Les équipages sont en cours de constitution.
-* **5 - 6 mai** : *Regataiades*. L'évènement majeur de la vie du club !
-* **7 - 12 mai** : Stage de printemps à Mauzac-et-Grand-Castang. Un événement incontournable pour la préparation aux compétitions de fin d'année (FFSU, Championnat bateaux longs). Les inscriptions se font [en ligne](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/stage-de-printemps-a-mauzac-et-grand-castang). Et vous pouvez voir [sur Youtube](https://youtu.be/9-01WItXess) un aperçu du stage de l'année dernière.
 
 ## Dernières actualités
 
-* Ce weekend de Pacques certains rameurs de l'UNA sont partis à Mantes-La-Jolie pour participer au le Championnat bateaux courts de la zone Nord-Ouest et pour tenter leur chance de se qualifier au championnat national. La délégation était composée d'un deux sans barreur hommes seniors poids léger, un skiff homme senior, un skiff femme senior et skiff homme junior.
-Les enjeux étaient importants pour tous les athlètes dès leurs premières courses : il s'agissait des qualifications au temps pour rentrer dans les quarts ou demi-finales. Ça passe pour la plupart : malheureusement la concurrence était très forte chez les filles, et ça se termine par une 15ème place pour Justine.
-Pour tous les qualifiés pas de temps pour se relâcher : il fallait aller chercher les places pour passer dans les finales.
-Tout le long du weekend nos rameurs se montrent à la hauteur et termine la tête haute. Colin en skiff juniors termine 5ème de la Finale C et donc 17ème sur 70 engagés. Jonathan termine 6ème de la Finale C et 18ème sur 35 dans la catégorie très forte de skiff hommes. Enfin, Benjamin et Laurent décrochent la troisième place de la Finale A et se qualifient pour le championnat national.
+* Suite aux qualifications lors du championnat de Zone, Benjamin et Laurent en deux sans barreur poids léger se sont qualifiés au Championnat National de bateaux courts à Cazaubon qui s'est déroulé le 13-15 avril. Les meilleurs rameurs et rameuses de Frances se sont réunis sur le lac de L'uby. Tout le monde démarre au même niveau et rien n'est donné. C'est pareil pour nos athlètes. D'abord une tête de rivière pour se qualifier dans une des trois séries. Ensuite, en accédant aux séries il faut aller chercher la place dans les démi-finales. Enfin, une troisième course pour essayer de s'aligner dans la finale A parmi les six meilleurs équipages français. Les rameurs de l'UNA se montrent à la hauteur et réalisent les parcours de qualité. Ils terminent le week-end têtes hautes à une 9me place aux classement générale.
 
-* Dimanche dernier, le 25 mars, l'équipe de l'UNA c'est déplacé à Laval pour l'occasion de la régate organisée par le club nautique [aviron de Laval](http://aviron-laval.fr). 45 personnes ont participé au déplacement, réunissant athlètes de tous les ages et incluant une équipe de coachs renforcée par les parents-supporteurs. C'était la première régate tout public de l'année et pour certains rameurs il s'agissait de la première experience de compétition. Pour tous c'était une belle occasion de s'aligner contre les adversaires d'autres clubs de la région et de mesurer ses forces. Avec une délégation massive, UNA a pu engager des bateaux dans plusieurs catégories : des doubles, des quatres et un huit chez les J14, des skiff et des doubles chez les J16, les doubles, les quatres et les huits chez les J18 et seniors. Dans tous les catégories les rameurs de l'UNA ont su défendre dignement les couleurs du club. On observe clairement de la progression et de l'amélioration pendant la régate. Parmis les meilleurs classés une cinquième place pour Virgile en skiff J16 (premier en J15), troisième place pour Laurene chez filles J16 en skiff, une deuxième place pour les garçons J14 en quatre de couple barré et une belle victoire de filles seniores en double.
+* Une grosse délégation de l'UNA s'est déplacée à Château Gontier (https://www.cncg-aviron.net) ce dimanche 15 avril pour une régate régionale déroulant sur 1000m. Les 53 rameurs, de benjamins aux masters, les expérimentés et les novices se sont engagés en plusieurs catégories : skiffs, doubles, quatres et huits. Comme d'habitude, du travail en équipe et des belles performances !
+Nos benjamins découvrent le monde de compétition et participant en courses en skiff où Gabriel se place premier.
+Les minimes en huit de couple mixte (J14) finissent leur parcours sans encombre et sans trop de fausses pelles ! Deux de nos minimes garçons ont également couru en skiff : Malo surprend et gagne la finale À suivi de très très près par Jean.
+Les filles minimes gagnent avec une large avance la finale B et se classent donc 5me.
+Chez les cadets Virgile continue sa progression de la saison et gagne l'épreuve en skiff cadet suivi de Kevin. Les filles en double finissent 9me.
+Nos juniors filles remportent l'épreuve en quatre et ramènent une coupe.
+Chez les hommes seniors le double de Colin et David se classe deuxième suite à un problème technique.  Dans l'épreuve de quatre de couple l'équipage composé des étudiants de Centrale Nantes termine leur première compétition fédérale à la 6eme place tandis que les masters s’emparent de la 2eme place.
+Dans une catégorie très remplie de quatre barré les masters de l'UNA terminent 8eme. Les deux bateaux master ont doublé en 8 où ils terminent 1er de la finale B.
+En sénior femmes trois doubles étaient engagés : Emma et Louise terminent 6me, Aurélie et Antonine 4me et Justine et Cécile se classent 2me. Ensuite elles continuent toutes en quatre de couple où Louise, Emma, Lauriane et Sophie terminent 3me et Cécile, Justine, Antonine et Aurélie se placent premières et remportent une coupe !
+Ces beaux résultats permettent à l'UNA de se placer troisième au classement général !
+
+* Samedi 7 avril nos jeunes rameurs de 15-16 ans sont partis à Vitré pour défendre les couleurs du club au Championnat Régional J16 en skiff ! C'était une étape importante sur le chemin de sélection de la ligue d'aviron, mais aussi une occasion de mettre à l'épreuve ses performances individuelles. La délégation était composée de 2 garçons, Kevin et Virgile et 2 filles, Laurene et Severine, accompagnés par Cécile.
+Le championnat a réuni les skiffeurs de plusieurs clubs régionaux, avec 61 engagés chez les garçons et 39 chez les filles. Les rameurs de l'UNA se débrouillent très bien : les filles se classent 9ème (Laurene) et 17ème (Séverine) et les gars 23ème (Virgile) et 44ème (Kevin) !
+Bravo !
+
+## Calendrier
+
+* **21 avril** : *Championnat inter académique*. Première étape pour nos rameurs étudiants avant les championnats FFSU en mai. Les équipages sont en cours de constitution.
+* **5 - 6 mai** : *Regataiades*. L'évènement majeur de la vie du club !
+* **7 - 12 mai** : Stage de printemps à Mauzac-et-Grand-Castang. Un événement incontournable pour la préparation aux compétitions de fin d'année (FFSU, Championnat bateaux longs). Les inscriptions tardives se font encore [en ligne](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/stage-de-printemps-a-mauzac-et-grand-castang).
+* **18 - 20 mai** : *Championnat FFSU à Mâcon*. Un rendez-vous de l'année pour tous les étudiants.
 
 ## Régataïades
 
-L'organisation des Régataïades prend une nouvelle ampleur. Si vous êtes intéressés par des opportunités de bénévolat, vous pouvez désormais vous enregistrer [en ligne](http://registration.regataiades.fr/fr/volunteering-registration). **Attention**, suite à une faille logicielle nous avons malheuresement perdu les inscriptions faites avant le 24 mars. Ça serait très simpa si vous refaites votre inscription.
+L'organisation des Régataïades prend une nouvelle ampleur. Si vous êtes intéressés par des opportunités de bénévolat, vous pouvez désormais vous enregistrer [en ligne](http://registration.regataiades.fr/fr/volunteering-registration). **Attention**, suite à une faille logicielle nous avons malheureusement perdu les inscriptions faites avant le 24 mars. Ça serait très sympa si vous refaites votre inscription.
 
-La **recherche de partenaires** est toujours en cours. Si vous connaissez quelqu'un dans votre environnement qui serait intéressé par une visibilité que les Régataïades puissent ouvrir, touchez-lui un mot. Il y a plus de détails sur le [site du la régate](http://regataiades.fr/#partnership).
-
-Nous sommes toujours disponibles sur support@regataiades.fr pour toutes les informations supplementaires.
+Nous sommes toujours disponibles sur support@regataiades.fr pour toutes les informations supplémentaires.
 
 ## Entrainement et Encadrement
 
