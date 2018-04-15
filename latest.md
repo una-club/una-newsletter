@@ -5,7 +5,7 @@ Avec la saison d'aviron bien entamée on rentre dans la période bien remplie : 
 ## Important
 
 * **Les séances sur l'eau** sont désormais dispensées les soirs : mercredi (pour tous) et vendredi (pour les initiés seulement)
-* **Regataiades** arrivent à grands pas. On a toujours besoin des volontaires pour nous aider dans l'organisation. Le formulaire est disponible [en ligne](http://registration.regataiades.fr/fr/volunteering-registration#). Si ça ne marche pas, écrivez juste sur contact@regataiades.fr. **Attention**, suite à une faille logicielle nous avons perdu les inscriptions faites avant le 24 mars. N'hésitez donc pas à vous réinscrire. Nous sommes désolés pour ce problème.
+* **Regataiades** arrivent à grands pas (5 et 6 mai). On a toujours besoin des bénéboles pour nous aider dans l'organisation. Le formulaire est disponible [en ligne](http://registration.regataiades.fr/fr/volunteering-registration#). Si ça ne marche pas, écrivez juste sur contact@regataiades.fr. **Attention**, suite à une faille logicielle nous avons perdu les inscriptions faites avant le 24 mars. N'hésitez donc pas à vous réinscrire. Nous sommes désolés pour ce problème.
 * **Combi UNA** arrive très bientôt. Vous pouvez dès à présent voir le modèle [en ligne](http://univ-nantes-aviron.fr/libraries/images/universite-nantes-aviron-una-2-src-7832087389.jpg).
 
 ## Dernières actualités
