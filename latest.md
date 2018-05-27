@@ -1,18 +1,25 @@
 ## Introduction
 
-Pour cette édition de newsletter je souhaite commencer par un sujet important. Nous avons une chance d'avoir une rivière extraordinaire à Nantes. Cela permet d'héberger plusieurs clubs d'aviron, de canoë, de kayak, de voile et tout le monde peut profiter de ce bassin superbe. La présence de nombreux pratiquants nécessite le respect des règles de sécurité, la vigilance et la courtoisie sur l'eau. Le risque d'accident est élevé et le manque d'attention peut s'avérer grave. Ne tentez pas votre chance, faites attention, et prenez soin de vous.
+Aujourd'hui c'est la fête des mères en France : une occasion en plus de penser à toutes nos mamans-rameuses et aux mamans de nos rameurs. L'UNA est une grande famille et nous sommes ravis de vous avoir parmi nous et supporter notre quotidien de sportifs.
+
+## Politique de confidentialité
+
+Si vous êtes inscrits à d'autres newsletters, vous avez certainement reçu plein de mails vous parlant de mise à jour de la politique de confidentialité. Il s'agit du nouveau règlement général sur la protection de données (RGPD). A l'UNA nous y pensons aussi : nous prenons soin de vos informations personnelles dans toutes nos démarches, que ça soit dans l'organisation des déplacements et d'autres événements ou dans nos newsletters. Il est important pour nous de noter que notre objectif est de rendre votre vie dans l'association plus simple et plus confortable et sans accès à quelque peu de vos informations personnelles ça sera très compliqué. Si vous avez des inquiétudes quelconques à ce propos, n'hésitez pas à nous en parler.
 
 ## Important
 
-* **Les combis UNA** sont là depuis quelques semaines. Vous pouvez les commander [en ligne](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/vente-textile-2017-2018) ou les payer directement au club avec la carte bancaire. Vous pouvez en prendre plusieurs parce qu'elles sont très bien, et ça vous ferait une tenue d'entrainement supplémentaire.
 * **Le 2 juin** se déroule une journée des portes ouvertes. Faites venir vos amis et proches pour la découverte de votre activité sportive préférée et aussi pour ne pas attendre les JPO de septembre.
 * **Le 3 juin** a lieu le Championnat Régional Jeune à Chateau-Gontier pour les rameurs de 11 à 14 ans. Cette année nous espérons constituer une grosse délégation dans la suite de la dynamique de l'année. Nous aurions certainement besoin de bénévoles pour accompagner nous athlètes.
+* **Le 9-10 juin** se déroule le Championnat National Senior Bateaux Longs à Libourne. D'ici là, c'est la dernière ligne droite pour une échéance de l'année.
+* **Le 22 juin** un barbecue de fin d'année est organisé par et pour les rameurs du club. Bloquez votre vendredi et préparez-vous à bien manger. On communiquera plus de détails prochainement.
 
 ## Dernières actualités
 
-* Les vacances de printemps furent une occasion d'aller ramer ailleurs. Même deux fois. D'abord une équipe de 14 personnes essentiellement composée des étudiants est allée [à Agen](http://avironagenais47.890m.com). Ensuite, une délégation de 44 personnes de tous les âges (à partir de 10 ans) s'est déplacée à Mauzac-et-Grand-Castang. Le total de 1/7 de rameurs du club ayant exprimé une envie de réaliser un stage de perfectionnement, ce qui est assez remarquable. Avec le compteur de presque 150km pour la plupart, le succès est évident. Le travail ne s'arrête pas là : on continuera les entrainements avec la même rigueur et persistance.
-
-* Le premier week-end de mai, le 5 et le 6, se sont déroulés les Régataïades. Tout le travail de longue haleine accompli durant l'année a pu être mis en valeur pendant ces deux jours. Cela a été une véritable réussite, que ce soit par l'implication sportive (près de 20 délégation de toute l'Europe), l'implication de bénévoles et même la météo étant au rendez-vous tout le week-end. Un grand merci à tous ceux qui y ont contribué pour avoir aidé à valoriser le club et le sport à l'échelle régionale et ailleurs.
+* Weekend dernier, 19 et 20 mai à Mâcon a eu lieu le championnat FFSU d'aviron. Les rameurs-étudiants de l'UNA y étaient bien présents ! Parmi les équipages engagés deux huits féminins, un huit masculin et un huit mixte presque entièrement composés des rameurs du club. En plus, les couleurs de l'Université de Nantes ont été défendus par un quatre de couple masculin avec représentant de l'UNA, un quatre de couple féminin et un double masculin composés des rameuses de la ligue
+Le bilan du weekend est très positif. Tout le travail de l'année, les stages de perfectionnement, l'implications de chacun ont porté leurs fruits et ont permis aux étudiants de se montrer à la hauteur à cette compétition nationale.
+En pointe pour les huits féminins ça se termine par la deuxième et cinquième places. Le huit masculin de Centrale Nantes termine neuvième au classement général. Le huit mixte composé des débutants de l'année prend une sixième place dans une belle bataille.
+En couple le quatre masculin de l'Université de Nantes dans une catégorie dense termine dixième. Les filles en quatre de couple dominent la catégorie et s'emparent de la première place. Quant aux garçons en double, ils prennent la deuxième place.
+Ainsi se termine la saison de l'aviron universitaire. Mais la saison de compétition continue : prochain rendez-vous au championnat national Bateaux Longs en juin !
 
 ## Calendrier
 
@@ -21,6 +28,7 @@ Pour cette édition de newsletter je souhaite commencer par un sujet important. 
 * **3 juin** : *Championnat de Ligue Jeune Pays de la Loire* à Chateau-Gontier
 * **9-10 juin** : *Championnat de France Senior Bateaux Long* à Libourne
 * **16-17 juin** : *Championnat de zone Junior et U23* à Mantes-La-Jolie
+* **22 juin**: *BBQ de fin d'année*
 
 ## Rappels généraux
 
