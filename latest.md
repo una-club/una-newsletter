@@ -25,7 +25,7 @@ Pour les filles en 4- rien n'est donné d'avance non plus : 14 équipages pour 1
 
 ## Rappels généraux
 
-* Les inscriptions pour la saison 2018-2019 sont [ouvertes](https://www.helloasso.com/associations/universite-de-nantes-aviron/adhesions/adhesion-adhesions-saison-2018-2019-1)<
+* Les inscriptions pour la saison 2018-2019 sont [ouvertes](https://www.helloasso.com/associations/universite-de-nantes-aviron/adhesions/adhesion-adhesions-saison-2018-2019-1).
 * Les horaires des séances sont disponibles en [ligne](http://univ-nantes-aviron.fr/page/horaires). Soyez à l'heure et en tenue pour être bien accueillis !
 * Pas mal d'informations sur les entraînements sont publiées sur [Facebook](https://www.facebook.com/groups/178457672172317/). Les admins du groupe pourront vous accepter s'ils arrivent à vous identifier sur votre profil.
 * Pour la commande du textile, mais aussi pour des badges, vous pouvez passer par une [page dédiée](https://www.helloasso.com/associations/universite-de-nantes-aviron/evenements/vente-textile-2017-2018)
